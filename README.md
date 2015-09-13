@@ -1,13 +1,7 @@
 # Grainotheque
 
 ## Préambule
-La Quincaillerie Numérique (6 Rue Maurice Rollinat - Guéret) dispose actuellement d'un dépôt de câble, communément
-nommé la cablothèque. Le programme développé sous Django 1.8 /Python 2.7 permet de gérer le stock, les entrées/sorties.
-
-Vous recherchez un câble peu répandu, voir une bonne occasion, vous pouvez consulter notre base de données et venir
-chercher votre bonheur directement à la quincaillerie.
-
-Vous recherchez une semence particulière, vous disposez d'une graine, vous souhaitez connaitre les particuliarités de culture d'une espace, vous pouvez consulter notre vase de données et venir chercher votre bonheur directement à la Quincaillerie de Guéret ou à la *[BMI]: Bibiothèque Multimédia Intercommunale.
+Vous recherchez une semence particulière, vous disposez d'une graine, vous souhaitez connaitre les particuliarités de culture d'une espace, vous pouvez consulter notre vase de données et venir chercher votre bonheur directement à la Quincaillerie de Guéret ou à la Bibiothèque Multimédia Intercommunale.
 
 ## Démo
 Accéder à la démo(en cours de développement)
