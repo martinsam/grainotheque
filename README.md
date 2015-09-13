@@ -1,7 +1,7 @@
 # Grainotheque
 
 ## Préambule
-Vous recherchez une semence particulière, vous disposez d'une graine, vous souhaitez connaitre les particuliarités de culture d'une espace, vous pouvez consulter notre vase de données et venir chercher votre bonheur directement à la Quincaillerie de Guéret ou à la Bibiothèque Multimédia Intercommunale.
+Vous recherchez une semence particulière, vous disposez d'une graine, vous souhaitez connaitre les particuliarités de culture d'une espèce, vous pouvez consulter notre base de données et venir chercher votre bonheur directement à la Quincaillerie de Guéret ou à la Bibiothèque Multimédia Intercommunale.
 
 ## Démo
 Accéder à la démo(en cours de développement)
